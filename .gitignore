@@ -1,0 +1,5 @@
+# Ignore github folder
+github/
+
+# Ignore ini file
+_vizdoom.ini
