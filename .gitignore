@@ -1,5 +1,9 @@
 # Ignore github folder
 github/
 
+#ignore train and log folders
+train/
+logs/
+
 # Ignore ini file
 _vizdoom.ini
