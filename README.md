@@ -103,11 +103,18 @@ The system was validated using two VizDoom scenarios:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run (Jupyter Notebook)
+
+### 🔹 Step 1: Create Virtual Environment
 
 ```bash
-# Install dependencies
-pip install stable-baselines3 vizdoom gym
+# Create environment
+python -m venv rl_env
 
-# Run training
-python train.py
+# Activate environment (Windows)
+rl_env\Scripts\activate
+
+# Activate environment (Linux/Mac)
+source rl_env/bin/activate
+#install dependencies
+pip install -r requirements.txt
