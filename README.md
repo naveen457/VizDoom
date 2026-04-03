@@ -119,6 +119,7 @@ rl_env\Scripts\activate
 
 # Activate environment (Linux/Mac)
 source rl_env/bin/activate
+
 #install dependencies
 pip install -r requirements.txt
->>>>>>> 8d540fb798b63b71d877ddf5becbeed532f1a9b6
+
