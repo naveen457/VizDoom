@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-#
-=======
+
 # 🚀 Efficient PPO Training in VizDoom using Model Checkpointing
 
 This project implements a **Proximal Policy Optimization (PPO)** based Reinforcement Learning agent in the **VizDoom environment**, enhanced with **model checkpointing** to improve training efficiency.
